@@ -26,22 +26,6 @@ This project focuses on replacing or supplementing the factory transmission cont
 
 ---
 
-## Repository Structure
-
-4_runner_tcu/
-├── README.md
-├── firmware/
-│ └── arduino/
-│ ├── tcu_main/
-│ ├── line_pressure/
-│ └── tests/
-├── hardware/
-│ ├── stl/
-│ ├── step/
-│ └── drawings/
-└── docs/
-
-
 ### Folder Descriptions
 
 - **firmware/**  
