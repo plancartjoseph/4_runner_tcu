@@ -14,10 +14,14 @@
 
 02/10/26
 
-#Hardware v1.2
+#Hardware servo_horn_adapater v1.2
 
 -added bearing landing for 608
 
 -recentered structure
 
 -added bearing shaft
+ 
+#Hardware bearing_cap_v1.0
+
+-created bearing cap to hold bearing while prototyping 
