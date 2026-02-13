@@ -25,3 +25,13 @@
 #Hardware bearing_cap_v1.0
 
 -created bearing cap to hold bearing while prototyping 
+
+2/12/26
+
+#Hardware
+
+-servo_bracket.stl was refined
+
+#docs
+
+-measurements uploaded of hardware that is being used standard 608 bearing, 9imod DS35MG 35kg Waterproof Servo 180° Full Aluminum Case Stainless Steel Gear 
