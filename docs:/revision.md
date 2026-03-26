@@ -35,3 +35,9 @@
 #docs
 
 -measurements uploaded of hardware that is being used standard 608 bearing, 9imod DS35MG 35kg Waterproof Servo 180° Full Aluminum Case Stainless Steel Gear 
+
+03/24/26
+Solenoid controller built needs voltage dividers for L 4L P/N Reverse STP has controller for sln, lockup, s1, s2 needs inputs tps and spd2
+
+03/25/26
+Voltage cleaner built in kicad
